@@ -1,4 +1,5 @@
 import java.lang.Math;
+import java.io.*;
 class Area{
 	public static void main(String args[]){
 	double[] arr = {-13,8,
